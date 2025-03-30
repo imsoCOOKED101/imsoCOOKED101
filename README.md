@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @imsoCOOKED101
-- 🌱 I’m currently learning how to code
+- 👋 Hi, I’m @imsoCOOKED101/Gam
+- 🌱 I’m still learning how to code
 
 
 
